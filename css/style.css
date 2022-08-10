@@ -22,7 +22,7 @@ section .heading{
 
 .banner{
 	position: relative;
-	min-height: 100vh;
+	min-height:100vh;
 	background: url('../img/banner.jpg');
 	background-size: cover;
 	background-position: right;
