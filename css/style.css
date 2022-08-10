@@ -771,8 +771,9 @@ background-position: center;
 	position: relative;
 	min-height: auto;
 	}
-
-
+.banner .textBx{
+	padding-top: 307px;
+}
 
 }
 
