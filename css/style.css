@@ -22,7 +22,7 @@ section .heading{
 
 .banner{
 	position: relative;
-	min-height: auto;
+	min-height: 100vh;
 	background: url('../img/banner.jpg');
 	background-size: cover;
 	background-position: right;
@@ -744,6 +744,10 @@ background-position: center;
     .test .skill-bars{
         width: auto;
     }
+.banner{
+	position: relative;
+	min-height: auto;
+	}
 
 
     
@@ -763,7 +767,10 @@ background-position: center;
 .test .skill-bars{
     width: auto;
 }
-
+.banner{
+	position: relative;
+	min-height: auto;
+	}
 
 
 
