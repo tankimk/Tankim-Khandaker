@@ -777,12 +777,4 @@ background-position: center;
 }
 
 
-@media(max-width: 328px){
-.banner{
-	position: relative;
-	min-height: auto;
-}
-	
-}
-
 
