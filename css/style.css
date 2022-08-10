@@ -138,6 +138,9 @@ section .heading{
     margin-bottom: 80px;
   
 }
+span.tan{
+    color: red;
+}
 .content{
 	display: flex;
 	justify-content: space-between;
