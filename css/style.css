@@ -32,6 +32,9 @@ section .heading{
 
 
 }
+.banner .menu{
+	padding-right: 38px;
+}
 .banner h2{
    font-size: 3em;
    color: #fff;
