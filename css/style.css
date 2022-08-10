@@ -53,7 +53,7 @@ section .heading{
 
 .btn{
    position: relative;
-   background: #2196f3;
+   background: #d1164a;
    display: inline-block;
    color: #fff;
    margin-top: 20px;
@@ -63,6 +63,7 @@ section .heading{
    text-decoration: none;
    letter-spacing: 2px;
    font-weight: 500;
+    border-radius:20px;
 
 }
 
