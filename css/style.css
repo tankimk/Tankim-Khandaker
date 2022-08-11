@@ -70,6 +70,10 @@ section .heading{
 
 }
 
+.btn:hover{
+	background: #2196f3;
+
+}
 header{
 
 	position: fixed;
